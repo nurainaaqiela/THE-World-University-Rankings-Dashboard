@@ -6,7 +6,7 @@
 # World University Ranking Dashboard – Data Analysis & Visualization
 
 👩‍💻 Nur Aina Aqiela  
-🎓 Master of Science in Applied Mathematics  
+🎓 Bachelor of Science (Hons) Mathematics 
 
 ---
 
@@ -55,8 +55,6 @@ The dashboard design follows executive-style data visualization principles with 
 ---
 
 ## 📷 Dashboard Preview
-
-(Replace filenames below with your EXACT image names if different)
 
 ![Dashboard Overview](dashboard1_overview.png)
 ![Ranking Trend](dashboard2_ranking_trend.png)
