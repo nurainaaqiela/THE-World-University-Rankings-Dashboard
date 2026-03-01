@@ -19,7 +19,5 @@ Power BI, DAX, Data modeling, Data cleaning & transformation
 3. Teaching and research scores strongly correlated with overall ranking stability
 4. Score component drivers vary across institutions
 
-
 💡 Author
-Nur Aina Aqiela
-Master’s Student | Data Analytics | Power BI
+Nur Aina Aqiela 
