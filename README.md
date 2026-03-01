@@ -43,3 +43,43 @@ The dashboard design follows executive-style data visualization principles with 
 - Data Cleaning & Transformation  
 - Data Modeling  
 - Dashboard Design & Data Storytelling  
+
+---
+
+## 📁 Repository Files
+
+- World_University_Ranking.pbix  
+- Dashboard preview images  
+- README.md  
+
+---
+
+## 📷 Dashboard Preview
+
+(Replace filenames below with your EXACT image names if different)
+
+![Dashboard Overview](dashboard1_overview.png)
+![Ranking Trend](dashboard2_ranking_trend.png)
+![Score Analysis](dashboard3_score_analysis.png)
+![International Growth](dashboard4_international_growth.png)
+
+---
+
+## 🚀 How to Use
+
+1. Download the .pbix file  
+2. Open using Microsoft Power BI Desktop  
+3. Interact with slicers and visuals to explore insights  
+
+---
+
+## 📈 Project Status
+
+✅ Completed  
+📌 Portfolio Project  
+
+---
+
+## 📬 Connect
+
+If you found this project interesting, feel free to connect with me on LinkedIn or explore my other analytics projects.
