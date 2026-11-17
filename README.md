@@ -6,7 +6,6 @@
 ![Project](https://img.shields.io/badge/Project-Academic-blue)
 ![Period](https://img.shields.io/badge/Analysis-2016--2023-purple)
 
-**By Nur Aina Aqiela**  
 Bachelor of Science (Hons.) Mathematics | Universiti Teknologi MARA (UiTM)
 
 ---
