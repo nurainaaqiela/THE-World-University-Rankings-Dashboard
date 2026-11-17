@@ -38,8 +38,7 @@ The dashboard design follows executive-style data visualization principles with 
 
 ## 🛠 Tools & Technologies
 
-- Power BI Desktop  
-- DAX (Data Analysis Expressions)  
+- Power BI Desktop    
 - Data Cleaning & Transformation  
 - Data Modeling  
 - Dashboard Design & Data Storytelling  
