@@ -1,152 +1,177 @@
-# 🌍 THE World University Rankings (2016–2023)
-
-### Exploring global university performance, rankings and internationalisation through data.
-
-An interactive Power BI dashboard exploring how universities around the world performed between 2016 and 2023. This project transforms eight years of ranking data into visual insights, making it easier to explore changes in university performance, gender distribution, international student enrolment and academic subjects.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Preparation-green)
-![Project](https://img.shields.io/badge/Type-Academic%20Group%20Project-blue)
-![Period](https://img.shields.io/badge/Period-2016--2023-purple)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Preparation-green)
+![Project](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Period](https://img.shields.io/badge/Analysis-2016--2023-blue)
+
+# 🌍 THE World University Rankings – Data Analysis & Dashboard
+
+👩‍💻 Nur Aina Aqiela  
+🎓 Bachelor of Science (Hons.) Mathematics | UiTM
 
 ---
 
-## 📌 Project Overview
+## 📌 Key Results
 
-University rankings provide a useful way to examine the global higher education landscape. However, looking at rankings alone does not always reveal the bigger picture.
+✔ Analysed university rankings across 8 years (2016–2023)  
+✔ Explored 9,932 ranked universities across 104 participating countries  
+✔ Compared ranking trends of selected universities  
+✔ Examined teaching, research and industry income performance  
+✔ Visualised international student growth from 2.0 million to 3.6 million  
 
-This project uses the **Times Higher Education (THE) World University Rankings dataset** to explore university performance across different years and indicators.
+---
 
-Through data preparation in Microsoft Excel and interactive visualisation in Power BI, the project presents key patterns and comparisons across universities, countries and academic performance indicators.
+## Project Summary
 
-**The dashboard covers:**
-- Global distribution of ranked universities.
-- Gender distribution and university performance.
-- International student enrolment and international outlook.
-- Changes in university rankings and academic subject areas.
+How has global university performance changed over the years?
 
-## 📊 Project Highlights
+This project explores the **Times Higher Education (THE) World University Rankings from 2016 to 2023** through an interactive Power BI dashboard.
 
-| Project Detail | Description |
-|---|---|
-| Dataset | THE World University Rankings |
-| Coverage | 2016–2023 |
-| Records | 11,522 |
-| Attributes | 24 |
-| Dashboard | 4 interactive pages |
-| Data Preparation | Microsoft Excel |
-| Visualisation | Microsoft Power BI |
-| Project Type | Group Academic Project |
-| Course | Data Representation and Reporting Techniques (DSC651) |
+The dashboard transforms university ranking data into visual insights, allowing users to explore global university representation, ranking movements, performance indicators, gender distribution and internationalisation trends.
 
-## 🔍 Exploring the Dashboard
+The analysis was carried out using Microsoft Excel for data preparation and Microsoft Power BI for interactive visualisation.
 
-The dashboard is organised into four pages, each focusing on a different aspect of global university performance.
+---
 
-### 1. 🌐 Global University Overview
+## 📊 Dashboard Overview
 
-Explore how ranked universities are distributed across the world.
+The dashboard consists of four pages, each designed to explore a different dimension of global university performance.
 
-- Compare the number of universities across countries.
-- Examine the geographical distribution of universities by continent.
-- Identify countries with the largest representation in the rankings.
+### 1. 🌐 Global University Rankings Analysis
 
-**Visualisations:** Packed Bubble Chart and Filled Map.
+Explore the global distribution and representation of ranked universities.
 
-### 2. 👥 Gender Distribution & University Performance
+- Identify the top 10 countries with the highest number of ranked universities.
+- Compare university representation across countries.
+- View the total number of ranked universities and participating countries.
+- Explore individual university names, countries and ranking positions.
+- Examine global university distribution through a bubble chart.
 
-Look beyond overall rankings by exploring gender representation and institutional performance.
+![Global University Rankings Analysis](dashboard1_overview.png)
 
-- Examine male and female student distribution.
-- Compare university performance across different ranking indicators.
-- Explore changes in overall, teaching, research and industry income rankings over time.
+### 2. 🏆 University Performance Overview
 
-**Visualisations:** Donut Charts and Ranking Charts.
+Discover how selected universities and countries have changed throughout the eight-year period.
 
-### 3. ✈️ International Student & Outlook Analysis
+- Track ranking movements of leading universities, including Caltech, Harvard, Stanford, Cambridge and Oxford.
+- Compare university representation trends across Australia, Germany, the Netherlands, the United Kingdom and the United States.
+- Examine ranking changes among selected universities, including Monash University, Nanyang Technological University and others.
 
-Discover how internationalisation is reflected in university data.
+**Key observation:** The University of Oxford maintained a leading position from 2017 onwards, while other selected universities experienced changes in their ranking positions.
 
-- Track international student enrolment across the selected years.
-- Compare international outlook scores with overall university rankings.
-- Explore how international representation changes over time.
+![University Performance Overview](dashboard2_ranking_trend.png)
 
-**Visualisations:** Clustered Column Chart and Comparative Charts.
+### 3. 📈 University Score Component Analysis
 
-### 4. 📈 University Ranking Trends & Subjects
+Explore the relationship between university performance indicators and overall ranking positions.
 
-Explore how university positions and academic subject representation change over time.
+- Compare teaching scores with overall score rankings from 2016 to 2023.
+- Examine research score trends alongside overall score rankings.
+- Analyse industry income score changes over the same period.
+- Explore gender distribution across selected universities.
+- Use the university filter to focus on individual institutions.
 
-- Track university ranking trends from 2016 to 2023.
-- Compare changes in university positions across the selected years.
-- Identify prominent academic subjects represented in the dataset.
+The dashboard also highlights differences in gender representation, including Harvard University's relatively balanced male-to-female student distribution compared with the other selected universities.
 
-**Visualisations:** Line Charts and Word Cloud.
+![University Score Component Analysis](dashboard3_score_analysis.png)
+
+### 4. ✈️ International Student Growth
+
+Explore the development of international student enrolment and international outlook across the selected years.
+
+- Track international student growth from 2016 to 2023.
+- Compare average international outlook scores across years.
+- Identify universities with high percentages of international students.
+- Filter the analysis by continent to explore regional patterns.
+
+**Key observation:** International student numbers increased from approximately 2.0 million in 2016 to 3.6 million in 2023. The dashboard also highlights Asia's role in international student growth.
+
+![International Student Growth](dashboard4_international_growth.png)
 
 ---
 
 ## 💡 Key Insights
 
-The analysis revealed several interesting patterns in the global higher education landscape:
+The dashboard highlights several patterns in global higher education:
 
-- **United States leads in university representation:** It had the highest number of universities represented in the dataset, although its total representation showed a declining trend.
-- **Oxford's consistent performance:** The University of Oxford moved to first place in 2017 and maintained its leading position in the subsequent years covered by the analysis.
-- **Growth in international student enrolment:** The number of international students increased from approximately 2 million in 2016 to 3.6 million in 2023.
-- **Engineering stands out:** Engineering appeared as the most prominent subject area in the subject word cloud.
+- **Global university representation:** The United States recorded the highest number of ranked universities (1,288), followed by the United Kingdom (765) and Japan (727).
+- **Consistent ranking performance:** The University of Oxford maintained first place from 2017 through 2023 among the universities shown in the ranking trend.
+- **University performance indicators:** Teaching, research and industry income scores generally increased across the selected period, providing a basis for comparing changes in university performance.
+- **International student growth:** International student numbers increased steadily from 2.0 million in 2016 to 3.6 million in 2023.
+- **International outlook:** The average international outlook score fluctuated over the years, reaching its lowest displayed value in 2022 before increasing in 2023.
+- **Gender distribution:** The dashboard presents an overall gender distribution and allows users to explore differences in student representation across selected universities.
 
-These findings provide a snapshot of how university representation, performance and internationalisation evolved throughout the selected period.
+---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technical Skills Demonstrated
 
-| Tool | Application |
-|---|---|
-| Microsoft Excel | Data collection, cleaning, preparation, attribute creation and PivotTable analysis |
-| Microsoft Power BI | Interactive dashboard development and data visualisation |
+- Data collection and preparation
+- Data cleaning and organisation
+- Data transformation and attribute creation
+- Exploratory data analysis
+- Excel PivotTables
+- Interactive dashboard development
+- Data visualisation and insight communication
+- Microsoft Excel
+- Microsoft Power BI
+
+---
 
 ## 🔄 Project Workflow
 
-The project followed a series of data preparation and visualisation steps:
-
-1. **Data Collection** – Obtained THE World University Rankings data from Kaggle.
-2. **Data Preparation** – Selected the relevant years and organised the dataset in Microsoft Excel.
+1. **Data Collection** – Obtained the THE World University Rankings dataset from Kaggle.
+2. **Data Preparation** – Selected the relevant ranking years (2016–2023) and organised the dataset using Microsoft Excel.
 3. **Data Cleaning** – Reviewed and prepared the data for analysis.
 4. **Data Transformation** – Created additional attributes, including year and continent, to support comparisons.
-5. **Data Analysis** – Used Excel PivotTables to summarise and examine the data.
-6. **Data Visualisation** – Developed a four-page interactive dashboard in Microsoft Power BI.
-7. **Insight Presentation** – Presented the findings through charts, maps and other visual elements.
+5. **Data Analysis** – Used Excel PivotTables to summarise and examine the dataset.
+6. **Dashboard Development** – Created four interactive dashboard pages using Microsoft Power BI.
+7. **Insight Presentation** – Presented findings through charts, tables, filters and visual comparisons.
+
+---
 
 ## 👩‍💻 My Contribution
 
 **Role: Data Manager**
 
-As the Data Manager, I was involved in preparing and organising the dataset to support the project's analysis and dashboard development.
+I was responsible for supporting the data preparation and management process within the group project.
 
 My contributions included:
 
 - Gathering and preparing the THE World University Rankings dataset.
 - Cleaning and organising data using Microsoft Excel.
-- Creating additional attributes, including year and continent, for analysis.
+- Creating additional attributes, including year and continent.
 - Using PivotTables to summarise and examine the dataset.
-- Contributing to dashboard development and the presentation of analytical findings.
+- Contributing to dashboard development and the presentation of findings.
 
-This project strengthened my experience in data preparation, exploratory analysis and communicating insights through data visualisation.
+This project strengthened my practical experience in preparing datasets, exploring trends and presenting information through interactive data visualisations.
+
+---
 
 ## 📂 Dataset
 
-The dataset was obtained from Kaggle:
-
-[THE World University Rankings 2011–2023](https://www.kaggle.com/datasets/r1chardson/the-world-university-rankings-2011-2023)
+**Source:** [THE World University Rankings 2011–2023 – Kaggle](https://www.kaggle.com/datasets/r1chardson/the-world-university-rankings-2011-2023)
 
 The project focuses on the selected period from **2016 to 2023**.
 
+| Dataset Information | Details |
+|---|---|
+| Data source | Kaggle |
+| Selected period | 2016–2023 |
+| Dataset instances | 11,522 |
+| Attributes | 24 |
+| Dashboard KPI | 9,932 ranked universities |
+| Participating countries | 104 |
+
+*Note: Dataset instances and the dashboard's ranked-university KPI represent different measures.*
+
+---
+
 ## 🚀 How to Explore the Dashboard
 
-To explore the interactive dashboard:
-
-1. Open this repository.
-2. Download the Power BI `.pbix` file.
-3. Open the file using **Microsoft Power BI Desktop**.
-4. Navigate through the four dashboard pages to explore the visualisations and findings.
+1. Download the Power BI file from this repository.
+2. Open `THE World University Ranking Dashboard.pbix` using **Microsoft Power BI Desktop**.
+3. Navigate through the four dashboard pages.
+4. Use the available filters to explore different years, countries, continents and universities.
 
 ---
 
@@ -161,5 +186,4 @@ To explore the interactive dashboard:
 
 ---
 
-*This project was completed as part of an academic group assignment. The dashboard and analysis represent the team's work, with my contribution focused on data management and preparation.*
-
+*This was a group academic project. The dashboard and analysis represent the team's work, with my contribution focused on data management and preparation.*
