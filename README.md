@@ -1,9 +1,3 @@
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-blue)
-![Visualization](https://img.shields.io/badge/Data-Visualization-green)
-![Project](https://img.shields.io/badge/Project-Completed-brightgreen)
-
-
 # 🌍 THE World University Rankings (2016–2023)
 
 ### Exploring global university performance, rankings and internationalisation through data.
